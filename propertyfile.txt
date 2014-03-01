@@ -1,0 +1,4 @@
+#File locations
+#Thu May 30 15:36:41 EDT 2013
+ExecutableDirectory=/Users/lingjiemeng/Documents/CS/cs140/PIPS/
+SourceDirectory=/Users/lingjiemeng/Documents/CS/cs140/PIPS/

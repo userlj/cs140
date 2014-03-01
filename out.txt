@@ -1,0 +1,9 @@
+User entered 2555
+which has the following factorization:
+5x7x73
+User entered 566
+which has the following factorization:
+2x283
+User entered 33
+which has the following factorization:
+3x11

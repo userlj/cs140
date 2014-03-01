@@ -1,0 +1,29 @@
+Please enter the cost of your groceries: 5.90
+You win a discount coupon of $0.00 (0% of your purchase)
+
+Please enter the cost of your groceries: 10.00
+You win a discount coupon of $0.80 (8% of your purchase)
+
+Please enter the cost of your groceries: 25.60
+You win a discount coupon of $2.05 (8% of your purchase)
+
+Please enter the cost of your groceries: 60.00
+You win a discount coupon of $4.80 (8% of your purchase)
+
+Please enter the cost of your groceries: 98.67
+You win a discount coupon of $9.87 (10% of your purchase)
+
+Please enter the cost of your groceries: 150.00
+You win a discount coupon of $15.00 (10% of your purchase)
+
+Please enter the cost of your groceries: 178.10
+You win a discount coupon of $21.37 (12% of your purchase)
+
+Please enter the cost of your groceries: 210.00
+You win a discount coupon of $25.20 (12% of your purchase)
+
+Please enter the cost of your groceries: 300
+You win a discount coupon of $42.00 (14% of your purchase)
+
+Please enter the cost of your groceries: 1000.00
+You win a discount coupon of $140.00 (14% of your purchase)
